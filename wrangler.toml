@@ -1,0 +1,6 @@
+name = "repo-mind"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+SYSTEM_PROMPT = "You are a helpful support assistant for our business. Answer questions clearly and professionally."
